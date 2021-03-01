@@ -1,0 +1,5 @@
+Bundle-Name: CampaignBuilder
+Bundle-SymbolicName: campaignbuilder
+Bundle-Version: 1.0.0
+Export-Package: campaignbuilder.constants
+Web-ContextPath: /CampaignBuilder
